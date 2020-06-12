@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.3.0",
+    "author": {
+        "name": "Shrutika Dorugade",
+        "url": "https://medium.com/@dorugadeshrutika"
+    },
+    "maintainers": [
+        {
+            "name": "Shrutika Dorugade",
+            "email": "dorugadeshrutika@gmail.com",
+            "url": "https://medium.com/@dorugadeshrutika"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/shrutp/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/shrutp/jquery.linkIt",
+    "docs": "https://github.com/shrutp/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
